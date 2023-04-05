@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "mongoUrl": "mongodb://localhost:27017/MernCourse",
+    "jwtSecret": "Taras Tsinyk Mern",
+    "baseUrl":"http://localhost:5000"
+}
